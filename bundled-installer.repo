@@ -1,0 +1,6 @@
+[bundle-repo]
+name=AAP Bundled Installer Repo
+baseurl=file:///opt/setup-bundle/bundle/el8/repos
+enabled=1
+gpgcheck=1
+gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-redhat-release
